@@ -45,7 +45,7 @@ Create QR code using attacker IP address and APK file  (QR-code-generator.com): 
 <br />
 <br />
 Exploit device using commands: (examples: sysinfo, dump_sms, send_sms, geolocate) <br/>
-<img src="https://i.imgur.com/KIN0YyI.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+<img src="https://i.imgur.com/u9KT6DD.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 <img src="https://i.imgur.com/kevFvtT.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 <br />
 <br />
