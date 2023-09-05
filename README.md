@@ -19,44 +19,37 @@ MSFvenom is a powerful and versatile tool that is part of the Metasploit Framewo
 <h2>Program walk-through:</h2>
 
 <p align="center">
-Launch Kali Linux and Open SET: <br/>
-<img src="https://i.imgur.com/qumuHyz.jpg" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+Launch Kali Linux, open terminal and run MSFvenom: <br/>
+<img src="https://i.imgur.com/J28oKqx.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 <br />
 <br />
-Select social engineering attacks (1):  <br/>
-<img src="https://i.imgur.com/tIWtXDZ.jpg" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+Enter flags to create APK file :  <br/>
+<img src="https://i.imgur.com/8t5JRX2.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 <br />
 <br />
-Select website attack vectors (2): <br/>
-<img src="https://i.imgur.com/stHPYUU.jpg" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+Start Apache web service: <br/>
+<img src="https://i.imgur.com/XmxA79e.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 <br />
 <br />
-Select credential harvester attack method (3):  <br/>
-<img src="https://i.imgur.com/aZAeEXE.jpg" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+Launch msfconsole from terminal:  <br/>
+<img src="https://i.imgur.com/OdowDDg.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 <br />
 <br />
-Select web templates (1):  <br/>
-<img src="https://i.imgur.com/27pGb6d.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+Configure listener with payload and options:  <br/>
+<img src="https://i.imgur.com/tVIHNrf.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+<img src="https://i.imgur.com/NMRCXxF.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 <br />
 <br />
-Enter in IP address for POST back (attacker machine example 192.168.1.28):  <br/>
-<img src="https://i.imgur.com/x5teDTk.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+Create QR code using attacker IP address and APK file  (QR-code-generator.com):  <br/>
+<img src="https://i.imgur.com/G96Wn4Q.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 <br />
 <br />
-Select website templete:  <br/>
-<img src="https://i.imgur.com/os582Hz.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+Exploit device using commands: (examples: sysinfo, dump_sms, send_sms, geolocate) <br/>
+<img src="https://i.imgur.com/KIN0YyI.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+<img src="https://i.imgur.com/kevFvtT.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 <br />
 <br />
-Create QR code using attacker IP address (QR-code-generator.com):  <br/>
-<img src="https://i.imgur.com/cxa0dKg.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
-<br />
-<br />
-Credential harvesting site created:  <br/>
-<img src="https://i.imgur.com/NRqOpUY.jpg" height="80%" width="80%" alt="Disk Sanitization Steps"/>
-<br />
-<br />
-Credentials harvested from clone site:  <br/>
-<img src="https://i.imgur.com/VqOdlhi.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+
 
 
 
